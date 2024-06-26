@@ -1,0 +1,15 @@
+pyyaml
+easydict
+Cython
+youtokentome
+wandb
+tqdm
+# torchaudio
+librosa
+python-Levenshtein
+audiomentations
+pytorch_warmup
+kenlm
+datasets
+transformers
+pyctcdecode
